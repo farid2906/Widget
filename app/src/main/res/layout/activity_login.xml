@@ -12,7 +12,7 @@
         android:id="@+id/imgLogo"
         android:layout_width="match_parent"
         android:layout_height="150dp"
-        android:src="@drawable/logoku"
+        android:src="@drawable/logo"
         android:layout_marginBottom="20dp"
         />
 
@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
             android:hint="User Name"
-            android:textColorHint="@color/ColorBlack"
+            android:textColorHint="@color/ColorWhite"
             android:textSize="18dp" />
 
 
